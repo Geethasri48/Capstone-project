@@ -1,0 +1,3 @@
+By default login with User name:"user1", password:"pass1" for USER login
+and for Admin name:"user2", password:"pass2" for ADMIN login
+and for Owner name:"user3", password:"pass3" for Owner login
